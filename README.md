@@ -1,3 +1,7 @@
+```
+UPDATE: I notified Apple, and it looks like they've patched it now.
+```
+
 Apple ID Data Leak
 =========
 ![Demo](./img/demo.png)
