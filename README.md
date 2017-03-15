@@ -1,5 +1,6 @@
 Apple ID Data Leak
 =========
+![Demo](./img/demo.png)
 This script produces Apple ID's straight from the login form on Apple.com.
 
 How does it work?
